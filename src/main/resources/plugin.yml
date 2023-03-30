@@ -1,0 +1,9 @@
+name: KitPlugin
+version: '${version}'
+main: kitplugin.kitplugin.KitPlugin
+api-version: 1.19
+authors: [ topen0330 ]
+description: made for Xeon
+
+commands:
+  kit:
